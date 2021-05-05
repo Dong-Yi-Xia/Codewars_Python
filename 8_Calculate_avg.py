@@ -9,7 +9,6 @@ def find_average(numbers):
     c = len(numbers)
     return sum/c
 
-    pass
 
 
 
